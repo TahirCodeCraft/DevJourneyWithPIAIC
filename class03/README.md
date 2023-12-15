@@ -1,4 +1,4 @@
-🎓 **Advancing in Class 3:** 
+# 🎓Advancing in Class 3:
 Exploring Template Literals, Operators, and Data Types! 💻💡
 Recently completed a fascinating Class 3 session at PIAIC, where we delved into the nuances of template literals, arithmetic and concatenation, comparison and logical operators, and the intricacies of different data types. 🌟🚀
 📚 Key Highlights:
